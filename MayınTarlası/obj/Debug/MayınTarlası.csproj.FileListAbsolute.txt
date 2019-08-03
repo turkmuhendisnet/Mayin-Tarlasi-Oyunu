@@ -1,0 +1,28 @@
+G:\C# Desrleri\Ödev\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.csprojResolveAssemblyReference.cache
+G:\C# Desrleri\Ödev\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.Form1.resources
+G:\C# Desrleri\Ödev\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.Properties.Resources.resources
+G:\C# Desrleri\Ödev\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.csproj.GenerateResource.Cache
+G:\C# Desrleri\Ödev\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.exe.config
+G:\C# Desrleri\Ödev\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.exe
+G:\C# Desrleri\Ödev\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.pdb
+G:\C# Desrleri\Ödev\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.exe
+G:\C# Desrleri\Ödev\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.pdb
+E:\C# Desrleri\Ödev\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.exe.config
+E:\C# Desrleri\Ödev\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.exe
+E:\C# Desrleri\Ödev\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.pdb
+E:\C# Desrleri\Ödev\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.csprojAssemblyReference.cache
+E:\C# Desrleri\Ödev\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.Form1.resources
+E:\C# Desrleri\Ödev\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.Properties.Resources.resources
+E:\C# Desrleri\Ödev\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.csproj.GenerateResource.cache
+E:\C# Desrleri\Ödev\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.csproj.CoreCompileInputs.cache
+E:\C# Desrleri\Ödev\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.exe
+E:\C# Desrleri\Ödev\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.pdb
+E:\C# Desrleri\Ödevler\Mayın Tarlası Oyunu\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.exe.config
+E:\C# Desrleri\Ödevler\Mayın Tarlası Oyunu\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.exe
+E:\C# Desrleri\Ödevler\Mayın Tarlası Oyunu\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.pdb
+E:\C# Desrleri\Ödevler\Mayın Tarlası Oyunu\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.csprojResolveAssemblyReference.cache
+E:\C# Desrleri\Ödevler\Mayın Tarlası Oyunu\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.Form1.resources
+E:\C# Desrleri\Ödevler\Mayın Tarlası Oyunu\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.Properties.Resources.resources
+E:\C# Desrleri\Ödevler\Mayın Tarlası Oyunu\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.csproj.GenerateResource.Cache
+E:\C# Desrleri\Ödevler\Mayın Tarlası Oyunu\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.exe
+E:\C# Desrleri\Ödevler\Mayın Tarlası Oyunu\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.pdb
